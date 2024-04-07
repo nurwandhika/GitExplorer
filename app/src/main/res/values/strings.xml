@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GitExplorer</string>
+    <string name="detail">User Details</string>
+    <string name="search">Search Github Users</string>
+    <string name="followers">User Followers</string>
+    <string name="following">User Following</string>
+    <string name="followers_count">%d Followers</string>
+    <string name="following_count">%d Following</string>
+    <string name="favorite">Favorites</string>
+    <string name="settings">Preferences</string>
+    <string name="night_mode">Night Mode</string>
+</resources>

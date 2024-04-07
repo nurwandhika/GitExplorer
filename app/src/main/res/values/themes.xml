@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.GithubUser" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:colorBackground">@color/lightBlue</item>
+        <item name="android:colorForeground">@color/darkBlue</item>
+
+        <item name="colorPrimary">@color/darkBlue</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorPrimaryDark">@color/darkBlue</item>
+        <item name="colorAccent">@color/darkBlue</item>
+
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:indeterminateTint">@color/darkBlue</item>
+        <item name="android:textColorSecondary">@color/lightGray</item>
+
+        <item name="android:buttonStyle">@style/Widget.AppCompat.Button.Borderless</item>
+        <item name="android:spinnerItemStyle">@style/Widget.AppCompat.Spinner.Underlined</item>
+        <item name="cardViewBackground">@color/lightGray</item>
+    </style>
+
+    <color name="lightGray">#F0F0F0</color>
+    <color name="lightBlue">#ADD8E6</color>
+    <color name="darkBlue">#00008B</color>
+</resources>
